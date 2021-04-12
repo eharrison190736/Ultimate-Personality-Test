@@ -1,1 +1,1 @@
-# Ultimate-Personality-Test
+The Ultimate Personality Test project is a program that combines different popular personality test into one. Instead of taking multiple tests that have similar questions, the program can calculate your score and give the user their results in a more convenient way. This project also goes into depth on how to efficiently give the user their results in a timely manner. 
